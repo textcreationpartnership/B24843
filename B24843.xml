@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By the Lord Lieutenant and Council. Clarendon. Whereas there have been of late many burglaries and robberies committed in several parts of this kingdom, to the ruine of some of his Majesties good subjects, and the great disquiet of many others; ...</title>
+            <author>Ireland. Lord Lieutenant (1685-1687 : Clarendon)</author>
+         </titleStmt>
+         <extent>Approx. 4KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B24843</idno><idno type="EEBO-CITATION">99887037</idno>
+  <idno type="VID">190566</idno>
+  <idno type="EEBO-PROQUEST">2240902125</idno>
+  
+            <idno type="STC">Wing I944</idno>
+            <idno type="STC">Interim Tract Supplement Guide G.6022[20]</idno>
+            <idno type="STC">ESTC R226990</idno>
+            <idno type="PROQUEST">ocm99887037</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99887037e"/>
+            <note>(EEBO-TCP ; phase 2, no. B24843)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 190566)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C23:1[20])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By the Lord Lieutenant and Council. Clarendon. Whereas there have been of late many burglaries and robberies committed in several parts of this kingdom, to the ruine of some of his Majesties good subjects, and the great disquiet of many others; ...</title>
+                  <author>Ireland. Lord Lieutenant (1685-1687 : Clarendon)</author>
+               </titleStmt>
+               <extent>[2] sheets.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Andrew Crook and Samuel Helsham assigns of Benjamin Tooke, printer to the King's Most Excellent Majesty; and are to be sold by Andrew Crook at His Majesties printing-house on Ormonde-Key, and by Samuel Helsham at the Colledge-Arms in Castle-street.,</publisher>
+                  <pubPlace>Dubdin, [sic] :</pubPlace>
+                  <date>1686.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Title from caption and opening words of text.</note>
+                  <note>"Given at the Council Chamber in Dublin the 8th day of December, 1686."</note>
+                  <note>The King's mercy having proved an encouragement to burglaries and robberies, the law will now be left to take its course. -Steele.</note>
+                  <note>Arms 186.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Robbery --  Ireland --  Early works to 1800.</term>
+               <term type="topical_term">Burglary --  Ireland --  Early works to 1800.</term>
+               <term type="topical_term">Law enforcement --  Ireland --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:190566:1"/>
+            <head>
+               <figure>
+                  <q xml:lang="frm">DIEV ET MON DROIT</q>
+                  <q xml:lang="frm">HONI SOIT QVI MAL Y PENSE</q>
+                  <figDesc>royal blazon surmounted by a crown and flanked by the English lion and on one side and the Scottish unicorn on the other</figDesc>
+               </figure>
+            </head>
+            <head> BY THE LORD LIEUTENANT AND COUNCIL.</head>
+            <opener>
+               <signed>CLARENDON.</signed>
+            </opener>
+            <p>
+               <seg rend="decorInit">W</seg>HEREAS there have been of late many Bur<g ref="char:EOLhyphen"/>glaries and Robberies committed in several parts of this Kingdom, to the ruine of some of His Ma<g ref="char:EOLhyphen"/>jesties good Subjects, and the great disquiet of many others; And it is found by experience, that His Majesties Mercy that hath been heretofore ex<g ref="char:EOLhyphen"/>tended to some persons that have been attainted of such Crimes, hath been an encouragement to others to commit the like. For the prevention therefore of such Offences for the future, and the taking away all hopes of Impunity from such as shall hereafter be found guilty thereof. We the Lord Lieutenant and Council have thought fit by this our Proclamation, to publish and declare, That no person or persons who shall hereafter be con<g ref="char:EOLhyphen"/>vict or attainted of any Robbery or Burglary, are to expect any Pardon for the same, or have the favour of being transported into any foreign Plantation, but that the Law in all such cases shall be put in due execution: And also that for the speedy Tryal of such persons as shall be apprehended for any such Crimes, We shall take care that special Commissions shall from time to time
+<pb facs="tcp:190566:2"/>
+               <pb facs="tcp:190566:2"/> be issued to that purpose into such Counties in this Kingdom where there shall be occasion for them.</p>
+            <p>And We do hereby further Require and Command that the Laws of this Realm concerning the keeping of Watch and Ward, and for raising the <hi>Hue</hi> and <hi>Cry</hi> be duly Observed and Executed; And that His Majesties Iudges of Assize and Iustices of Peace in the several Counties of this Kingdom do take care that such as shall be found negligent therein, as also the Harbourers of all Notorious Robbers and Felons be duly Prosecuted and proceeded against. And the several Iustices of Peace of this Kingdom are hereby also required to be careful in taking sufficient Bail from such Offenders as shall be brought be<g ref="char:EOLhyphen"/>fore them in all such Cases where by the Examinations taken by them, they shall find just reason to suspect or believe the persons to be guilty of the Crimes whereof they shall be accused, and where such persons are by Law Bailable. And where any persons accused of the like Crimes shall fly from Iustice, or cannot be apprehended, the said Iustices of Peace are in such Cases to take Ex<g ref="char:EOLhyphen"/>aminations concerning them, and return the same to the next Issizes, to the end that they may thereupon be Endicted, which Endictments are from time to time to be forthwith Return'd into His Majesties Court of Chief Place, to the end that the Offenders therein nam'd may be Outlawed thereupon. And all Commanders of Horse and Foot, and all others His Majesties Officers and Loving Subjects are to be aiding and assisting in the due apprehension and bringing to Iustice of such persons as shall be suspected or accused of any Rob<g ref="char:EOLhyphen"/>beries or Burglaries, as they and every of them will answer the contrary at their perils.</p>
+            <closer>
+               <dateline>Given at the Council Chamber in <hi>Dublin</hi>
+                  <date>the 8th day of <hi>December,</hi> 1686.</date>
+               </dateline>
+               <signed>Porter C. Granard P. Roscommon, Drogheda, Longford, Lymrick, John Keating, Nugent, De. Daly, Rob. Hamilton, Tho. Newcomen, Paul Ricaut.</signed>
+               <lb/> God Save the King.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>DUBDIN, Printed by <hi>Andrew Crook</hi> and <hi>Samuel Helsham</hi> Assigns of <hi>Benjamin Tooke,</hi> Printer to the King's Most Excellent Majesty; And are to be Sold by <hi>Andrew Crook</hi> at His Ma<g ref="char:EOLhyphen"/>jesties Printing-House on <hi>Ormonde-Key,</hi> and by <hi>Samuel Helsham</hi> at the <hi>Colledge-Arms</hi> in <hi>Castle-Street.</hi> 1686.</p>
+            <pb facs="tcp:190566:3"/>
+         </div>
+      </back>
+   </text>
+</TEI>
